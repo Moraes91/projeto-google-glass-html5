@@ -21,14 +21,14 @@
 
 ## 📖 Sobre 
 
-Este site foi desenvolvido durante o curso de HTML5 e CSS3 do Curso em Video com o professor Gustavo Guanabara, ao final do projeto ocorreu uma avaliação para testar os conhecimentos adquiridos no decorrer do projeto.
+Este site foi desenvolvido durante o curso de HTML5 e CSS3 do Curso em Video com o professor Gustavo Guanabara, durante o curso foram ensinadas as principais tags e as mudanças que ocorreram na semantica do HTML5, ao final do projeto ocorreu uma avaliação para testar os conhecimentos adquiridos no decorrer do projeto.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 O projeto está sendo desenvolvido com as seguintes tecnologias:
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
